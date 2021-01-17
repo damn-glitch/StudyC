@@ -24,7 +24,7 @@ public class ChatBotSwing extends JFrame implements KeyListener
 			{"Good","Fine","Amazing","Great","Well! Everything's good!"},
 			//question 2
 			{"what are you doing", "wt are you doing", "what r you doing", "what are u doing", "wt r u doing", "wt r u doin"},
-			{"Dude! Coing is life", "Sleeping like a panda!", "Having my caffiene, You want some?", "Learning new tech like a nerd", "Being Geeky", "Answering you, blind fella!","Being witty to cut your cum inside"},
+			{"Dude! Coding is life", "Sleeping like a panda!", "Having my caffiene, You want some?", "Learning new tech like a nerd", "Being Geeky"},
 			//Negation 1
 			{"yes", "ya", "yeah" , "yea", "ha","ya ya"},
 			{"No", "Never", "No, You can't", "Na", "Nay", "No No"},
